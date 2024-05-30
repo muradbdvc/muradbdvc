@@ -35,8 +35,8 @@
 
 <div align="center">
 <p>
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ImeshaDilshani&theme=algolia&hide_border=false" alt="Imesha Dilshani" /> -->
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImeshaDilshani&theme=2077" alt="DATCH" />
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muradbdvc&theme=algolia&hide_border=false" alt="muradbdvc" /> -->
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muradbdvc&theme=2077" alt="DATCH" />
 
 </p>
 </div>
