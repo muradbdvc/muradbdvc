@@ -44,14 +44,14 @@
 
 <div align="center">
 <p>
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muradbdvc&theme=algolia&hide_border=false" alt="muradbdvc" /> -->
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muradbdvc&theme=2077" alt="DATCH" />
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muradbdvc&theme=algolia&hide_border=false&include_all_commits=false&count_private=truet" alt="muradbdvc" /> -->
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muradbdvc&theme=algolia&hide_border=false&include_all_commits=false&count_private=true" alt="DATCH" />
 
 </p>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muradbdvc&show_icons=true&locale=en&layout=compact&theme=2077" alt="muradbdvc" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muradbdvc&theme=algolia&hide_border=false&include_all_commits=false&count_private=true" alt="muradbdvc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muradbdvc&show_icons=true&locale=en&theme=2077" alt="muradbdvc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muradbdvc&theme=algolia&hide_border=false&include_all_commits=false&count_private=true" alt="muradbdvc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muradbdvc&theme=2077" alt="muradbdvc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muradbdvc&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="muradbdvc" /></p>
