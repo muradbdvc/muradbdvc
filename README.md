@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shakhawat Murad</h1>
 <h3 align="center">A passionate frontend developer from BD</h3>
-
+<!-- Interactive GIF -->
+<p align="center">
+  <img width="50%" align="right"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
+</p>
 - 🔭 I’m currently working on **Webflow**
 
 - 🌱 I’m currently learning **Wordpress**
@@ -17,7 +20,7 @@
 
 - ⚡ Fun fact **Think about you**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Let's Get Connected</h3>
 <p align="left">
 <a href="https://twitter.com/shakhawatmurad" target="blank"><img align="center" src="#" alt="shakhawatmurad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shakhawatmurad" target="blank"><img align="center" src="#" alt="shakhawatmurad" height="30" width="40" /></a>
