@@ -6,9 +6,12 @@
 </p>
 
 
-  <a href="https://github.com/ImaniAN">
+  <a href="https://github.com/muradbdvc">
     <img src="https://komarev.com/ghpvc/?username=muradbdvc&&style=for-the-badge" alt="muradbdvc" title= "muradbdvc">
   </a>
+    <a href="https://github.com/muradbdvc/muradbdvc/network/members">
+    <img src="https://img.shields.io/github/forks/muradbdvc/muradbdvc?style=for-the-badge&color=1D70B8&logo=GitHub&logoColor=FFFFFF&label=Repo%20Forks" alt="Shakhawat MUrad" title= "Md Shakhawat MUrad">
+   </a>
 
 
 - 🔭 I’m currently working on **Webflow**
