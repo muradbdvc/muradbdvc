@@ -53,7 +53,6 @@
 | Position                                    | Institute                                                | Duration                            | Location        | Description                           |
 |---------------------------------------------|----------------------------------------------------------|-------------------------------------|-----------------|---------------------------------------|
 |  Assistant Relationship Officer (ARO)       | Dutch Bangla Bank Plc                                    | February-2013 to April 2014         | Laksham, Cumilla| That was develop my banking knoledge  |
-|---------------------------------------------|----------------------------------------------------------|-------------------------------------|-----------------|---------------------------------------|
 | Agency                                      | [repository](https://github.com/muradbdvc)               | A web-based application thatstreamlines theprocess of flight bookingandreservation management.|
 
 <h3 align="left">Languages and Tools:</h3>
