@@ -5,20 +5,6 @@
   <img width="50%" align="right"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
 </p>
 
-<h2 align="center">🤝 GitHub Extra info🤝</h2> <!--- Level 2 Heading to align contents -->
-<details align="center">
-  <summary>
-  (CLICK!!!) Indepth Github Metrics and Info (HERE!!!)
-  </summary>
-  <ol>
-    <a href="https://github.com/muradbdvc">
-    <img src="https://api.star-history.com/svg?repos=muradbdvc/muradbdvc&type=Date" alt="Add a description" title= "Click HERE to find out more">
-  </a>
-    <p align="center">
-<img src="https://metrics.lecoq.io/muradbdvc?template=classic&base.indepth=true&base.hireable=true&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=HTML%2C%20CSS%2C%20M4%2C%20C%2C%20C%2B%2B%2C%20PHP%2C%20Makefile%2C%20Roff%2C%20CMake%2C%20Shell&languages.limit=9&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=999&config.timezone=Africa%2FJohannesburg" width="90%"></img>
-</p>
-  </ol>
-</details>
 
   <a href="https://github.com/ImaniAN">
     <img src="https://komarev.com/ghpvc/?username=muradbdvc&&style=for-the-badge" alt="muradbdvc" title= "muradbdvc">
@@ -90,3 +76,18 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muradbdvc&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+<h2 align="center">🤝 GitHub Extra info🤝</h2> <!--- Level 2 Heading to align contents -->
+<details align="center">
+  <summary>
+  (CLICK!!!) Indepth Github Metrics and Info (HERE!!!)
+  </summary>
+  <ol>
+    <a href="https://github.com/muradbdvc">
+    <img src="https://api.star-history.com/svg?repos=muradbdvc/muradbdvc&type=Date" alt="Add a description" title= "Click HERE to find out more">
+  </a>
+    <p align="center">
+<img src="https://metrics.lecoq.io/muradbdvc?template=classic&base.indepth=true&base.hireable=true&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=HTML%2C%20CSS%2C%20M4%2C%20C%2C%20C%2B%2B%2C%20PHP%2C%20Makefile%2C%20Roff%2C%20CMake%2C%20Shell&languages.limit=9&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=999&config.timezone=Africa%2FJohannesburg" width="90%"></img>
+</p>
+  </ol>
+</details>
