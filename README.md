@@ -2,17 +2,23 @@
 <h3 align="center">A passionate frontend developer from BD</h3>
 <!-- Interactive GIF -->
 <p align="center">
-  <img width="50%" align="right"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
+  <img width="50%" align="right"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="Shakhawat MUrad">
 </p>
 
-
+<p align="center"> <!--- P tag to align contents -->
   <a href="https://github.com/muradbdvc">
-    <img src="https://komarev.com/ghpvc/?username=muradbdvc&&style=for-the-badge" alt="muradbdvc" title= "muradbdvc">
+    <img src="https://komarev.com/ghpvc/?username=muradbdvc&&style=for-the-badge" alt="Shakhawat MUrad" title= "muradbdvc">
   </a>
     <a href="https://github.com/muradbdvc/muradbdvc/network/members">
     <img src="https://img.shields.io/github/forks/muradbdvc/muradbdvc?style=for-the-badge&color=1D70B8&logo=GitHub&logoColor=FFFFFF&label=Repo%20Forks" alt="Shakhawat MUrad" title= "Md Shakhawat MUrad">
    </a>
-
+   <a href="https://github.com/muradbdvc/muradbdvc/stargazers">
+    <img src="https://img.shields.io/github/stars/muradbdvc/muradbdvc?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&color=1D70B8&label=Repo%20Stargazers" alt="Shakhawat MUrad" title= "Md Shakhawat MUrad">
+   </a>
+  <a href="https://github.com/muradbdvc">
+   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/muradbdvc/muradbdvc?style=for-the-badge&color=1D70B8&logo=GitHub&logoColor=FFFFFF&label=Last%20Updated" title= "Md Shakhawat MUrad">
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Webflow**
 
