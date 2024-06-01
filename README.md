@@ -4,7 +4,9 @@
 <p align="center">
   <img width="50%" align="right"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muradbdvc&label=Profile%20views&color=0e75b6&style=flat" alt="muradbdvc" /> </p>
+
 - 🔭 I’m currently working on **Webflow**
 
 - 🌱 I’m currently learning **Wordpress**
