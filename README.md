@@ -21,7 +21,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Webflow**
+- 🔭 I’m currently working on <a href="http://www.nurency.com" target="_blank">**nurency-dev**</a>
 
 - 🌱 I’m currently learning **Wordpress**
 
@@ -39,14 +39,14 @@
 
 <h3 align="left">🔗 Let's Get Connected</h3>
 <p align="left">
-<a href="https://twitter.com/shakhawatmurad" target="blank"><img align="center" src="#" alt="shakhawatmurad" height="30" width="40" /></a>
+<a href="https://twitter.com/shakhawatmurad" target="blank"><img align="center" src="image/twitter.svg" alt="shakhawatmurad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shakhawatmurad" target="blank"><img align="center" src="#" alt="shakhawatmurad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/shakhawatmurad" target="blank"><img align="center" src="#" alt="shakhawatmurad" height="30" width="40" /></a>
-<a href="https://fb.com/shakhawatmurad" target="blank"><img align="center" src="#" alt="shakhawatmurad" height="30" width="40" /></a>
+<a href="https://fb.com/mdshakhawathossen.murad" target="blank"><img align="center" src="image/facebook.svg" alt="shakhawatmurad" height="30" width="40" /></a>
 <a href="https://instagram.com/shakhawatmurad" target="blank"><img align="center" src="#" alt="shakhawatmurad" height="30" width="40" /></a>
   
 </p><br><br>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Imeshadilshani) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdshakhawathossen.murad) 
 
 ## 👩‍💻 My Works
 
