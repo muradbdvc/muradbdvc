@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from BD</h3>
 <!-- Interactive GIF -->
 <p align="center">
-  <img width="50%" align="right"  src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="Shakhawat MUrad">
+  <img width="50%" align="right"  src="image/brand.gif" alt="Shakhawat MUrad">
    I am improving my web development skills. Every day I want to learn something new...
 </p>
 
