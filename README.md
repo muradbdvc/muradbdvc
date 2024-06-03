@@ -39,10 +39,10 @@
 
 <h3 align="left">🔗 Let's Get Connected</h3>
 <p align="left">
-<a href="https://twitter.com/shakhawatmurad" target="blank"><img align="center" src="image/facebook.svg" alt="shakhawatmurad" height="30" width="40" /></a>
+<a href="https://twitter.com/shakhawatmurad" target="blank"><img align="center" src="image/twitter.svg" alt="shakhawatmurad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shakhawatmurad" target="blank"><img align="center" src="#" alt="shakhawatmurad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/shakhawatmurad" target="blank"><img align="center" src="#" alt="shakhawatmurad" height="30" width="40" /></a>
-<a href="https://fb.com/shakhawatmurad" target="blank"><img align="center" src="#" alt="shakhawatmurad" height="30" width="40" /></a>
+<a href="https://fb.com/shakhawatmurad" target="blank"><img align="center" src="image/facebook.svg" alt="shakhawatmurad" height="30" width="40" /></a>
 <a href="https://instagram.com/shakhawatmurad" target="blank"><img align="center" src="#" alt="shakhawatmurad" height="30" width="40" /></a>
   
 </p><br><br>
