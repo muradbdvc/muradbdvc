@@ -21,7 +21,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on <a href="http://www.nurency.com" target="__blank">**nurency-dev**</a>
+- 🔭 I’m currently working on <a href="http://www.nurency.com" target="_blank">**nurency-dev**</a>
 
 - 🌱 I’m currently learning **Wordpress**
 
