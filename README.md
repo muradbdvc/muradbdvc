@@ -50,10 +50,11 @@
 
 ## 👩‍💻 My Works
 
-| Position                                    | Institute                                                | Duration                            | Location        | Description                           |
-|---------------------------------------------|----------------------------------------------------------|-------------------------------------|-----------------|---------------------------------------|
-|  Assistant Relationship Officer (ARO)       | Dutch Bangla Bank Plc                                    | February-2013 to April 2014         | Laksham, Cumilla| That was develop my banking knoledge  |
-| Agency                                      | [repository](https://github.com/muradbdvc)               | A web-based application thatstreamlines theprocess of flight bookingandreservation management.|
+| Position                                    | Institute                                                | Duration                            | Location        | Description                                |
+|---------------------------------------------|----------------------------------------------------------|-------------------------------------|-----------------|--------------------------------------------|
+|  Front End Developer                        | Precursor Technology                                     | May-2014 to April 2017              | Laksham, Cumilla| That was develop my development knowledge  |
+|  Assistant Relationship Officer (ARO)       | Dutch Bangla Bank Plc                                    | February-2013 to April 2014         | Laksham, Cumilla| That was develop my banking knowledge      |
+| Agency                                      | [repository](https://github.com/muradbdvc)               | A web-based application thatstreamlines theprocess of flight bookingandreservation management.     |
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
