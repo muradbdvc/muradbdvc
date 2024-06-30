@@ -73,7 +73,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="#" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="image/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="image/#" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="#" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="tailwind.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="#" alt="typescript" width="40" height="40"/> </a>
 </p>
 
