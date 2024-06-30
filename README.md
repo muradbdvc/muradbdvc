@@ -3,7 +3,7 @@
 <!-- Interactive GIF -->
 <p align="center">
   <img width="50%" align="right"  src="image/brand.gif" alt="Shakhawat MUrad">
-   I am improving my web development skills. Every day I want to learn something new...
+   <image src="lang.gif" alt="hello" height="180" width="80" />I am improving my web development skills. Every day I want to learn something new...
 </p>
 
 <p align="center"> <!--- P tag to align contents -->
