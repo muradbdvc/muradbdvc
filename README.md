@@ -21,15 +21,15 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on <a href="http://www.nurency.com" target="_blank">**nurency-dev**</a>
+- 🔭 I’m currently working on <a href="http://www.#.com" target="_blank">**Personal**</a>
 
-- 🌱 I’m currently learning **Wordpress**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👯 I’m looking to collaborate on **Reactjs**
 
 - 🤝 I’m looking for help with **Nextjs**
 
-- 👨‍💻 All of my projects are available at [facebook](facebook)
+- 👨‍💻 All of my projects are available at [github](github)
 
 - 💬 Ask me about **Reactjs, Webflow**
 
