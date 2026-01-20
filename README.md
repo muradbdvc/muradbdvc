@@ -52,9 +52,10 @@
 
 | Position                                    | Institute                                                | Duration                            | Location        | Description                                |
 |---------------------------------------------|----------------------------------------------------------|-------------------------------------|-----------------|--------------------------------------------|
-|  Supply Chain Manager                       | Bhaiya Group (Sales)                                     | September-2024 to Continue          | Dhaka           | That was develop my Marketink knowledge    |
+<!--|  Supply Chain Manager                       | Bhaiya Group (Sales)                                     | September-2024 to Continue          | Dhaka           | That was develop my Marketink knowledge    |
 |  Sales Admin                                | Bhaiya Group (Sales)                                     | January-2022 to March. 2024         | Dhaka           | That was develop my Marketink knowledge    |
 |  Executive operation                        | Global Edge Ltd (Supply chain)                           | May-2017 to Oct. 2019               | Dhaka           | That was develop my Sales knowledge        |
+-->
 |  Front End Developer                        | Precursor Technology                                     | May-2014 to April 2017              | Laksham, Cumilla| That was develop my development knowledge  |
 |  Assistant Relationship Officer (ARO)       | Dutch Bangla Bank Plc                                    | February-2013 to April 2014         | Laksham, Cumilla| That was develop my banking knowledge      |
 <!--| Agency                                      | [repository](https://github.com/muradbdvc)               | A web-based application thatstreamlines theprocess of flight bookingandreservation management.     | -->
