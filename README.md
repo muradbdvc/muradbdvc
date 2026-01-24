@@ -50,7 +50,7 @@
 
 ## 👩‍💻 My Works
 
-| Position                                    | Institute                                                | Duration                            | Location        | Description                                |
+| Position                                    | Institute                                                | Duration                            | Location                                      | Description                                              |
 |---------------------------------------------|----------------------------------------------------------|-------------------------------------|-----------------|--------------------------------------------|
 <!--|  Supply Chain Manager                       | Bhaiya Group (Sales)                                     | September-2024 to Continue          | Dhaka           | That was develop my Marketink knowledge    |
 |  Sales Admin                                | Bhaiya Group (Sales)                                     | January-2022 to March. 2024         | Dhaka           | That was develop my Marketink knowledge    |
